@@ -1,0 +1,88 @@
+{
+  "name": "Hiba Reyes",
+  "headerTaglineOne": "Hello 👋 ",
+  "headerTaglineTwo": "I'm Hiba Reyes - curious",
+  "headerTaglineThree": "GIS Developer 🗺️",
+  "headerTaglineFour": " based in San Diego, California.",
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/hibarv"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/hibareyesvarela/"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Suitable tree planting areas in the City of San Diego",
+      "description": "GIS course capstone project",
+      "imageSrc": "images/urban-sanden-6-RNpJelM4o-unsplash.jpg",
+      "url": "https://storymaps.arcgis.com/stories/ec75d41f96b846799879f69b3b84c1d0"
+    },
+    {
+      "id": "2",
+      "title": "City of Miami Beach Sea Level Rise",
+      "description": "A 3D scene of buildings in Miami Beach that are affected by sea level rise and the year of inundation that the building may be affected. This analysis was completed in ArcGIS Pro.",
+      "imageSrc": "images/ashley-satanosky-mWN686Fsbgs-unsplash.jpg",
+      "url": "https://ucsdonline.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=efa607f725f64f18a7a0d9e9121998db"
+    },
+    {
+      "id": "3",
+      "title": "Torrey Pines Data Dashboard",
+      "description": "Dashboard created for the non-profit Ocean Discovery Institute. This Dashboard was made as a tool for the students to study the tree health of Torrey Pines reserve.",
+      "imageSrc": "images/kc-welch-sIncdE6Z7Zs-unsplash.jpg",
+      "url": "https://www.arcgis.com/apps/dashboards/945060c06f944bb189b2eb61bb224194"
+    },
+    {
+      "id": "4",
+      "title": "Torrey Pines Survey123",
+      "description": "Survey123 created for the non-profit Ocean Discovery Institute. This survey was made by using the tool Survey123 Connect.",
+      "imageSrc": "images/1698795311565.jpg",
+      "url": "https://arcg.is/1LWD89"
+    },
+    {
+      "id": "5",
+      "title": "Plant coverage StoryMap",
+      "description": "StoryMap with a web map using the tools from ArcGIS. Project created for the non-profit Ocean Discovery Institute. ",
+      "imageSrc": "images/Ocean-Discovery-Institute-22.jpg",
+      "url": "https://storymaps.arcgis.com/stories/e3870a06d4b64413b7439bddd725c34a"
+    }
+  ],
+  "aboutpara": "When I'm not making web maps,You'll find me exploring nature through hiking, SUP, kayaking, and snorkeling, often visiting National Parks. I have a passion for photography and enjoy capturing moments during my adventures.My favorite thing is spending quality time with my dog, Maya.",
+  "resume": {
+    "tagline": "👋  I'm a GIS Developer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
